@@ -417,7 +417,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	font-size: 13px;
 }
 #footer a {
-	color: #555;
+	color: #000000;
 }
 #footer a:hover {
 	color: #000;
