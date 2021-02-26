@@ -4,7 +4,7 @@
     "name": "Cindy Meziane",
     "short_name": "Cindy Meziane",
     "scope": "/",
-    "display": "browser",
+    "display": "standalone",
     "start_url": "https://cindymzn.github.io/",
     "background_color": "#000000",
     "theme_color": "transparent",
